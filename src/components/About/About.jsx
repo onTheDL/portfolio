@@ -39,14 +39,14 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    "I'm baby gastropub neutra photo booth 90's.Green juice ethical cloud bread, banh mi pickled fixie vaporware poke snackwave squid."}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    'Bushwick tumblr street art, raclette brooklyn before they sold out semiotics messenger bag scenester seitan. Semiotics distillery seitan trust fund, venmo keytar asymmetrical hot chicken artisan try-hard.'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
+                  {paragraphThree || 'DIY live-edge lo-fi pok pok vexillologist. Crucifix single-origin coffee.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
