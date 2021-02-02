@@ -39,11 +39,11 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    "I'm baby gastropub neutra photo booth 90's.Green juice ethical cloud bread, banh mi pickled fixie vaporware poke snackwave squid."}
+                    "Try-hard baby gastropub neutra photo booth 90's. Green juice ethical cloud bread, banh mi pickled fixie vaporware poke snackwave squid."}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Bushwick tumblr street art, raclette brooklyn before they sold out semiotics messenger bag scenester seitan. Semiotics distillery seitan trust fund, venmo keytar asymmetrical hot chicken artisan try-hard.'}
+                    'Bushwick tumblr street art, raclette brooklyn before they sold out semiotics messenger bag scenester avocadoes. Semiotics distillery trust fund, venmo keytar asymmetrical hot chicken plant-based artisan.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree || 'DIY live-edge lo-fi pok pok vexillologist. Crucifix single-origin coffee.'}

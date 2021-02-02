@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'das-hero.png',
     title: 'DAS Development',
     info: 'Software Freelance Website',
-    info2: 'Need to change or modify the logo',
+    info2: '(Logo will be updated)',
     url: 'https://das-next-js.vercel.app/',
     repo: 'https://github.com/onTheDL/das-nextJS', // if no repo, the button will not show up
   },
@@ -39,8 +39,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'das-pm.png',
     title: 'DAS Project Manager',
-    info: 'Client-side app designed to track of freelance projects.',
-    info2: '(Still a work in progress)',
+    info: 'Client-side app designed to keep track of freelance projects.',
+    info2: '(Logo will be updated)',
     url: 'https://das-pm-jsootxd8r.vercel.app/',
     repo: 'https://github.com/onTheDL/das-pm', // if no repo, the button will not show up
   },
@@ -49,7 +49,7 @@ export const projectsData = [
     img: 'github-battle.png',
     title: 'GitHub Battle',
     info:
-      'A client-side React app that shows the top GitHub profiles sorted according the following computer categories: Javascript, Ruby, Java, CSS, Python, and the four combined. The app also enables the user to compare two GitHub users based on their popularity.',
+      'A client-side React app that shows the top GitHub profiles sorted according to the following computer languages:  Javascript, Ruby, Java, CSS, Python, and the four combined. Users are also given the ability to relive their high school angst by judging two GitHub users based on their popularity.',
     info2: '',
     url: 'https://frosty-williams-207395.netlify.app/',
     repo: 'https://github.com/onTheDL/github-battle-v1', // if no repo, the button will not show up
@@ -61,6 +61,15 @@ export const projectsData = [
     info: 'A luxury resort website showcasing the use of styled-components',
     info2: '',
     url: 'https://inspiring-albattani-986be0.netlify.app/',
+    repo: 'https://github.com/onTheDL/dc-resort', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'maze.png',
+    title: 'An Amazing Maze',
+    info: 'A non-monetizable project forged into existence by boredom.',
+    info2: 'MatterJS for the 2D physics, and Canvas, vanilla JS, and html for the layout',
+    url: 'https://hardcore-darwin-6563fe.netlify.app/',
     repo: 'https://github.com/onTheDL/dc-resort', // if no repo, the button will not show up
   },
 ];
