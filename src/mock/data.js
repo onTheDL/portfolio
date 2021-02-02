@@ -49,7 +49,7 @@ export const projectsData = [
     img: 'github-battle.png',
     title: 'GitHub Battle',
     info:
-      'A client-side React app that shows the top GitHub profiles sorted according to the following computer languages:  Javascript, Ruby, Java, CSS, Python, and the four combined. Users are also given the ability to relive their high school angst by judging two GitHub users based on their popularity.',
+      'A client-side React app that shows the top GitHub profiles sorted and ranked according to the following computer languages:  Javascript, Ruby, Java, CSS, Python, and the four combined. Users are also given the ability to relive their high school angst by ranking two GitHub users based on their popularity.',
     info2: '',
     url: 'https://frosty-williams-207395.netlify.app/',
     repo: 'https://github.com/onTheDL/github-battle-v1', // if no repo, the button will not show up
@@ -68,9 +68,10 @@ export const projectsData = [
     img: 'maze.png',
     title: 'An Amazing Maze',
     info: 'A non-monetizable project forged into existence by boredom.',
-    info2: 'MatterJS for the 2D physics, and Canvas, vanilla JS, and html for the layout',
+    info2:
+      'MatterJS for the 2D physics, and Canvas, vanilla JS, and HTML for randomized the layout',
     url: 'https://hardcore-darwin-6563fe.netlify.app/',
-    repo: 'https://github.com/onTheDL/dc-resort', // if no repo, the button will not show up
+    repo: 'https://github.com/onTheDL/a-zing', // if no repo, the button will not show up
   },
 ];
 
