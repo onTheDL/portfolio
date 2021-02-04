@@ -39,7 +39,7 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    "Try-hard baby gastropub neutra photo booth 90's. Green juice ethical cloud bread, banh mi pickled fixie vaporware poke snackwave squid."}
+                    "Baby gastropub neutra photo booth 90's. Green juice ethical cloud bread, banh mi pickled fixie vaporware poke snackwave squid."}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
