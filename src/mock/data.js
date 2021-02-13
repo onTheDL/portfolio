@@ -18,9 +18,11 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'about.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'It probably started with a box of Lego. ',
+  paragraphTwo:
+    "I love to build.  And when I stumbled on web development about a year ago, it was a natural fit. Having completed Codecademy's Web Developer Career Path, as well as Udacity’s React Nanodegree Program, I’ve trained myself to build responsive, scalable, and aesthetically professional web applications, with sights set to build enterprise-ready mobile applications as well.",
+  paragraphThree:
+    'My tech stack includes Javascript, ReactJS, NextJS, GatsbyJS, NodeJS, Firebase, Material UI, styled-components, HTML, CSS, Git, VSCode',
   resume: '',
 };
 
@@ -49,7 +51,7 @@ export const projectsData = [
     img: 'github-battle.png',
     title: 'GitHub Battle',
     info:
-      'A client-side React app that shows the top GitHub profiles sorted and ranked according to the following computer languages:  Javascript, Ruby, Java, CSS, Python, and the four combined. Users are also given the ability to relive their high school angst by ranking two GitHub users based on their popularity.',
+      'A client-side React app that shows the top GitHub profiles ranked according the various computer languages. Users can also battle two GitHub users to see which has the better profile.',
     info2: '',
     url: 'https://frosty-williams-207395.netlify.app/',
     repo: 'https://github.com/onTheDL/github-battle-v1', // if no repo, the button will not show up
@@ -66,10 +68,10 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'maze.png',
-    title: 'An Amazing Maze',
-    info: 'A non-monetizable project forged into existence by boredom.',
+    title: 'Mazing Around',
+    info: 'A simple maze game.',
     info2:
-      'MatterJS for the 2D physics, and Canvas, vanilla JS, and HTML for randomized the layout',
+      'Built with MatterJS for the 2D physics, and Canvas, vanilla JS, and HTML for the randomized layout',
     url: 'https://hardcore-darwin-6563fe.netlify.app/',
     repo: 'https://github.com/onTheDL/a-zing', // if no repo, the button will not show up
   },
@@ -85,16 +87,6 @@ export const contactData = {
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
     {
       id: nanoid(),
       name: 'linkedin',
