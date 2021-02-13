@@ -1,6 +1,6 @@
 ## portfolio-v1
 
-See it [live](https://website-portfolio-ashy.vercel.app/)
+See it [LIVE](https://website-portfolio-ashy.vercel.app/)
 
 ## Features
 

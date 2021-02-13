@@ -51,7 +51,7 @@ export const projectsData = [
     img: 'github-battle.png',
     title: 'GitHub Battle',
     info:
-      'A client-side React app that shows the top GitHub profiles ranked according the various computer languages. Users can also battle two GitHub users to see which has the better profile.',
+      'A client-side React app that shows the top GitHub profiles ranked according to various computer languages. Users can also battle two GitHub users to see which has the better profile.',
     info2: '',
     url: 'https://frosty-williams-207395.netlify.app/',
     repo: 'https://github.com/onTheDL/github-battle-v1', // if no repo, the button will not show up
