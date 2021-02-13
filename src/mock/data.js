@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo:
     "I love to build.  And when I stumbled on web development about a year ago, it was a natural fit. Having completed Codecademy's Web Developer Career Path, as well as Udacity’s React Nanodegree Program, I’ve trained myself to build responsive, scalable, and aesthetically professional web applications, with sights set to build enterprise-ready mobile applications as well.",
   paragraphThree:
-    'My tech stack includes Javascript, ReactJS, NextJS, GatsbyJS, NodeJS, Firebase, Material UI, styled-components, HTML, CSS, Git, VSCode',
+    'My tech stack includes Javascript, ReactJS, NextJS, GatsbyJS, NodeJS, Firebase, Material UI, styled-components, HTML, CSS, Git, and VSCode',
   resume: '',
 };
 
