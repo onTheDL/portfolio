@@ -19,4 +19,6 @@ See it [LIVE](https://website-portfolio-ashy.vercel.app/)
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-End UI library
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
 
+## Acknowledgements
 
+Special thanks to Jacobo Martinez for providing the starter code (Gatsby Docs).

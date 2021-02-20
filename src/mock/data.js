@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'about.jpg',
-  paragraphOne: 'It probably started with a box of Lego. ',
-  paragraphTwo:
+  paragraphOne:
     "I love to build.  And when I stumbled on web development about a year ago, it was a natural fit. Having completed Codecademy's Web Developer Career Path, as well as Udacity’s React Nanodegree Program, I’ve trained myself to build responsive, scalable, and aesthetically professional web applications, with sights set to build enterprise-ready mobile applications as well.",
+  paragraphTwo: '',
   paragraphThree:
     'Current Stack:  Javascript, ReactJS, NextJS, GatsbyJS, NodeJS, Firebase, Material UI, styled-components, HTML, CSS, Git, and VSCode',
   resume: 'https://my.indeed.com/p/daniell-gb342sz',
