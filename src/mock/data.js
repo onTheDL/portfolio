@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Daniel',
-  subtitle: "I'm the next Clutch React Developer",
+  subtitle: 'Frontend Developer with Style',
   cta: 'Know more',
 };
 
@@ -33,7 +33,7 @@ export const projectsData = [
     img: 'das-hero.png',
     title: 'DAS Development',
     info: 'Software Freelance Website',
-    info2: '(Logo will be updated)',
+    info2: '',
     url: 'https://das-next-js.vercel.app/',
     repo: 'https://github.com/onTheDL/das-nextJS', // if no repo, the button will not show up
   },
@@ -42,7 +42,7 @@ export const projectsData = [
     img: 'das-pm.png',
     title: 'DAS Project Manager',
     info: 'Client-side app designed to keep track of freelance projects.',
-    info2: '(Logo will be updated)',
+    info2: '',
     url: 'https://das-pm-jsootxd8r.vercel.app/',
     repo: 'https://github.com/onTheDL/das-pm', // if no repo, the button will not show up
   },
