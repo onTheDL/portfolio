@@ -11,16 +11,16 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Daniel',
-  subtitle: 'Frontend Developer with Style',
+  subtitle: 'And the web is my playground.',
   cta: 'Know more',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'about.jpg',
-  paragraphOne: 'It probably started with a box of Lego. ',
+  paragraphOne: "I'm a frontend developer, and I love what I do.",
   paragraphTwo:
-    "I love to build.  So when I stumbled on web development about a year ago, it was a natural fit. Having completed Codecademy's Web Developer Career Path, as well as Udacity’s React Nanodegree Program, I’ve trained myself to build responsive, scalable, and aesthetically professional web applications, with sights set to build enterprise-ready mobile applications as well.",
+    "What started out as a hobby culminated into a full blown passion. I love the process of learning and finding ways to turn ideas into realized products. To that end, I've upgraded my web development skills by completing Codecademy's Web Developer Career Path, as well as Udacity’s React Nanodegree Program. I’ve trained myself to build responsive, scalable, and aesthetically professional software solutions with an eye for clean code. Consequently, I hope to use those skills to turn your great ideas into great products.",
   paragraphThree:
     'Current Stack:  Javascript, ReactJS, NextJS, GatsbyJS, NodeJS, Firebase, Material UI, styled-components, HTML, CSS, Git, and VSCode',
   resume: 'https://my.indeed.com/p/daniell-gb342sz',
