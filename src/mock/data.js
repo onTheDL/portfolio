@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'about.jpg',
-  paragraphOne: "I'm a frontend developer, and I love what I do.",
+  paragraphOne: "I'm a frontend developer, and I love what I do!",
   paragraphTwo:
-    "I enjoy the process of learning and finding ways to transform ideas into realized products. Having completed Codecademy's Web Developer Career Path, as well as Udacity’s React Nanodegree Program, I’ve trained myself to build responsive, scalable, and practical software solutions. Consequently, I hope to use those same skills to turn your great ideas into great products.",
+    "As a builder at heart, I enjoy the process of learning and finding innovative ways to turn ideas into products.  Web development is a great medium for me to express that. Having completed Codecademy's Web Developer Career Path, as well as Udacity’s React Nanodegree Program, I’ve trained myself to build responsive, scalable, and performant software applications. Consequently, I hope to use those same skills to create solutions to turn your great ideas into great products.",
   paragraphThree:
     'Current Stack:  Javascript, ReactJS, NextJS, GatsbyJS, NodeJS, Firebase, Material UI, styled-components, HTML, CSS, Git, and VSCode',
   resume: 'https://my.indeed.com/p/daniell-gb342sz',
