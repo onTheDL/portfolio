@@ -43,7 +43,7 @@ export const projectsData = [
     title: 'DAS Project Manager',
     info: 'Client-side app designed to keep track of freelance projects.',
     info2: '',
-    url: 'https://das-pm-jsootxd8r.vercel.app/',
+    url: 'https://das-pm.vercel.app/',
     repo: 'https://github.com/onTheDL/das-pm', // if no repo, the button will not show up
   },
   {
