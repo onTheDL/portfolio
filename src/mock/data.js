@@ -32,8 +32,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'das-hero.png',
     title: 'DAS Development',
-    info: 'Software Freelance Website',
-    info2: '',
+    info:
+      'A freelance website that I built to learn Next.js and Material UI.  Features a responsive design, active menu selection, SEO integration, form, form validation, Google Cloud functions, Nodemailer, progress indicator (i.e. loading spinner), Snackbar components - provides brief feedback messages of action performed (e.g. "Message sent") - and cross-browser support.',
+    info2: 'Stack:  Javascript, ReactJS, Material UI, Html, CSS, NextJS, Firebase',
     url: 'https://das-next-js.vercel.app/',
     repo: 'https://github.com/onTheDL/das-nextJS', // if no repo, the button will not show up
   },
@@ -41,8 +42,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'das-pm.png',
     title: 'DAS Project Manager',
-    info: 'Client-side app designed to keep track of freelance projects.',
-    info2: '',
+    info:
+      "DAS Development's internal client-side app used to keep track of its freelance projects.",
+    info2: 'Stack: Javascript, ReactJS, NextJS, Material UI, HTML, CSS',
     url: 'https://das-pm.vercel.app/',
     repo: 'https://github.com/onTheDL/das-pm', // if no repo, the button will not show up
   },
@@ -52,7 +54,7 @@ export const projectsData = [
     title: 'GitHub Battle',
     info:
       'A client-side React app that shows the top GitHub profiles ranked according to various computer languages. Users can also battle two GitHub users to see which has the better profile.',
-    info2: '',
+    info2: 'Stack: ReactJS, Javascript, HTML, CSS',
     url: 'https://frosty-williams-207395.netlify.app/',
     repo: 'https://github.com/onTheDL/github-battle-v1', // if no repo, the button will not show up
   },
@@ -61,7 +63,7 @@ export const projectsData = [
     img: 'dc-resort.png',
     title: "Dreamer's Cove Resort",
     info: 'A luxury resort website showcasing the use of styled-components',
-    info2: '',
+    info2: 'Stack: ReactJS, styled-components, HTML, CSS',
     url: 'https://inspiring-albattani-986be0.netlify.app/',
     repo: 'https://github.com/onTheDL/dc-resort', // if no repo, the button will not show up
   },
