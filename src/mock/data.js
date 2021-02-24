@@ -43,7 +43,7 @@ export const projectsData = [
     img: 'das-pm.png',
     title: 'DAS Project Manager',
     info:
-      "DAS Development's internal client-side app used to keep track of its freelance projects.",
+      "DAS Development's internal client-side app used to keep track of its freelance projects. Features include the ability to add and delete projects, search by any registered project detail, sort projects either alphabetically or numerically according to the table headings, filter according to the quoted price, select one or all projects, and determine the number of rows displayed on the table ",
     info2: 'Stack: Javascript, ReactJS, NextJS, Material UI, HTML, CSS',
     url: 'https://das-pm.vercel.app/',
     repo: 'https://github.com/onTheDL/das-pm', // if no repo, the button will not show up
