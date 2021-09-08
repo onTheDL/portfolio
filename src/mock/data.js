@@ -23,7 +23,7 @@ export const aboutData = {
     "I enjoy the process of learning and finding ways to transform ideas into reality. Having completed Codecademy's Web Developer Career Path, Udacity’s React Nanodegree Program and Webflow's Design and Development Courses, I’ve trained myself to build responsive, scalable, and performant software solutions. I hope to use those same skills to grow your company by turning your innovative, digital ideas into reality.",
   paragraphThree:
     'Current Stack:  Javascript, HTML, CSS, Webflow, ReactJS, NextJS, GatsbyJS, NodeJS, Firebase, Material UI, styled-components, Git, and VSCode',
-  resume: 'https://my.indeed.com/p/daniell-gb342sz',
+  resume: 'https://my.indeed.com/p/qk2jiyt',
 };
 
 // PROJECTS DATA
@@ -32,9 +32,18 @@ export const projectsData = [
     id: nanoid(),
     img: 'jzPhysio-hero.png',
     title: 'JZ Physiotherapy',
-    info: 'A freelance project for Jimmy Zhou Physiotherapy using Webflow',
+    info: 'A freelance project for Jimmy Zhou Physiotherapy.  Created with Webflow.',
     info2: '',
     url: 'https://jz-physiotherapy.webflow.io/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'teamapp-hero-min.png',
+    title: 'Team App',
+    info: 'A communication software for digital teams (concept). Site created with Webflow.',
+    info2: '',
+    url: 'https://team-app-d85c24.webflow.io/',
     repo: '', // if no repo, the button will not show up
   },
   {
