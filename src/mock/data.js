@@ -32,8 +32,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'jzPhysio-hero.png',
     title: 'JZ Physiotherapy',
-    info: 'A freelance project for Jimmy Zhou Physiotherapy.  Created with Webflow.',
-    info2: '',
+    info: 'A freelance project for Jimmy Zhou Physiotherapy.  Still in development.',
+    info2: 'Stack: Webflow',
     url: 'https://jz-physiotherapy.webflow.io/',
     repo: '', // if no repo, the button will not show up
   },
@@ -41,8 +41,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'teamapp-hero-min.png',
     title: 'Team App',
-    info: 'A communication software for digital teams (concept). Site created with Webflow.',
-    info2: '',
+    info: 'A communication software for digital teams (concept).',
+    info2: 'Stack: Webflow',
     url: 'https://team-app-d85c24.webflow.io/',
     repo: '', // if no repo, the button will not show up
   },
