@@ -18,16 +18,25 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'about.jpg',
-  paragraphOne: "I'm a frontend developer, and I love what I do!",
+  paragraphOne: "I'm a frontend web and Webflow developer, and I love what I do!",
   paragraphTwo:
-    "As a builder at heart, I enjoy the process of learning and finding ways to transform ideas into realized products. Having completed Codecademy's Web Developer Career Path, as well as Udacity’s React Nanodegree Program, I’ve trained myself to build responsive, scalable, and performant software solutions. Consequently, I hope to use those same skills to bring to life your own innovative, digital ideas.",
+    "I enjoy the process of learning and finding ways to transform ideas into reality. Having completed Codecademy's Web Developer Career Path, Udacity’s React Nanodegree Program and Webflow's Design and Development Courses, I’ve trained myself to build responsive, scalable, and performant software solutions. I hope to use those same skills to grow your company by turning your innovative, digital ideas into reality.",
   paragraphThree:
-    'Current Stack:  Javascript, ReactJS, NextJS, GatsbyJS, NodeJS, Firebase, Material UI, styled-components, HTML, CSS, Git, and VSCode',
+    'Current Stack:  Javascript, HTML, CSS, Webflow, ReactJS, NextJS, GatsbyJS, NodeJS, Firebase, Material UI, styled-components, Git, and VSCode',
   resume: 'https://my.indeed.com/p/daniell-gb342sz',
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'jzPhysio-hero.png',
+    title: 'JZ Physiotherapy',
+    info: 'A freelance project for Jimmy Zhou Physiotherapy using Webflow',
+    info2: '',
+    url: 'https://jz-physiotherapy.webflow.io/',
+    repo: '', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'das-hero.png',
