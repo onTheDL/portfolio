@@ -41,9 +41,18 @@ export const projectsData = [
     id: nanoid(),
     img: 'teamapp-hero-min.png',
     title: 'Team App',
-    info: 'A communication software for digital teams (concept).',
+    info: `A communication software for agile teams (concept).  This project explores the use of Webflows 'collections' content management system.`,
     info2: 'Stack: Webflow',
     url: 'https://team-app-d85c24.webflow.io/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'chatapp-hero.png',
+    title: 'Chat App',
+    info: 'A simple landing page for a (concept) chat application.',
+    info2: '',
+    url: 'https://practice-fdbe17.webflow.io/',
     repo: '', // if no repo, the button will not show up
   },
   {
