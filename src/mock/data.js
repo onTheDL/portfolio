@@ -46,15 +46,15 @@ export const projectsData = [
     url: 'https://team-app-d85c24.webflow.io/',
     repo: '', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'chatapp-hero.png',
-    title: 'Chat App',
-    info: 'A simple landing page for a (concept) chat application.',
-    info2: '',
-    url: 'https://practice-fdbe17.webflow.io/',
-    repo: '', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'chatapp-hero.png',
+  //   title: 'Chat App',
+  //   info: 'A simple landing page for a (concept) chat application.',
+  //   info2: '',
+  //   url: 'https://practice-fdbe17.webflow.io/',
+  //   repo: '', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'das-hero.png',
@@ -85,15 +85,15 @@ export const projectsData = [
     url: 'https://frosty-williams-207395.netlify.app/',
     repo: 'https://github.com/onTheDL/github-battle-v1', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'dc-resort.png',
-    title: "Dreamer's Cove Resort",
-    info: 'A luxury resort website showcasing the use of styled-components',
-    info2: 'Stack: ReactJS, styled-components, HTML, CSS',
-    url: 'https://inspiring-albattani-986be0.netlify.app/',
-    repo: 'https://github.com/onTheDL/dc-resort', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'dc-resort.png',
+  //   title: "Dreamer's Cove Resort",
+  //   info: 'A luxury resort website showcasing the use of styled-components',
+  //   info2: 'Stack: ReactJS, styled-components, HTML, CSS',
+  //   url: 'https://inspiring-albattani-986be0.netlify.app/',
+  //   repo: 'https://github.com/onTheDL/dc-resort', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'maze.png',
