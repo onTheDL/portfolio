@@ -86,16 +86,16 @@ export const projectsData = [
   //   url: 'https://das-pm.vercel.app/',
   //   repo: 'https://github.com/onTheDL/das-pm', // if no repo, the button will not show up
   // },
-  {
-    id: nanoid(),
-    img: 'github-battle.png',
-    title: 'GitHub Battle',
-    info:
-      'A client-side React app that shows the top GitHub profiles ranked according to various computer languages. Users can also battle two GitHub users to see which has the more popular profile.',
-    info2: 'Stack: ReactJS, Javascript, HTML, CSS',
-    url: 'https://frosty-williams-207395.netlify.app/',
-    repo: 'https://github.com/onTheDL/github-battle-v1', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'github-battle.png',
+  //   title: 'GitHub Battle',
+  //   info:
+  //     'A client-side React app that shows the top GitHub profiles ranked according to various computer languages. Users can also battle two GitHub users to see which has the more popular profile.',
+  //   info2: 'Stack: ReactJS, Javascript, HTML, CSS',
+  //   url: 'https://frosty-williams-207395.netlify.app/',
+  //   repo: 'https://github.com/onTheDL/github-battle-v1', // if no repo, the button will not show up
+  // },
   // {
   //   id: nanoid(),
   //   img: 'dc-resort.png',
