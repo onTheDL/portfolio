@@ -54,7 +54,7 @@ export const projectsData = [
       'This a concept landing page for a leadership conference.  In this project, I have utilized an even more complex CMS collection layout structure than my previous projects, as well as exploring new animation options.  This project is still in development ',
     info2:
       'Known bugs include issues with Chrome in maintaining the 3-grid, Pinterest-like layout for the homepage profile section, as well as the on-hover multiply blend mode for the profiles in the same section.  However, these issues are not evident in Firefox or Safari.  Stack used: Webflow, custom CSS, fluid responsive design, client-first naming convention (css).',
-    url: 'https://w-site-0d90fd.webflow.io/',
+    url: 'https://w-site-0d90fd-5c38c1a43be9dd77a250b5d1b.webflow.io/',
     repo: '', // if no repo, the button will not show up
   },
 
