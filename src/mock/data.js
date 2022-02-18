@@ -41,6 +41,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'apple-rebuild_hero.png',
+    title: 'Apple Rebuild',
+    info: "This a rebuild of Apple's landing page.",
+    info2:
+      'Stack: Webflow, custom CSS, fluid responsive design, client-first naming convention (css).',
+    url: 'https://apple-rebuild-2b1b0-7ffb26a0ba7c0.webflow.io/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'jzPhysio-hero.png',
     title: 'JZ Physiotherapy',
     info: 'A freelance project for Jimmy Zhou Physiotherapy.',
@@ -105,16 +115,16 @@ export const projectsData = [
   //   url: 'https://inspiring-albattani-986be0.netlify.app/',
   //   repo: 'https://github.com/onTheDL/dc-resort', // if no repo, the button will not show up
   // },
-  {
-    id: nanoid(),
-    img: 'maze.png',
-    title: 'Mazing Around',
-    info: 'A simple maze game.',
-    info2:
-      'Built with MatterJS for the 2D physics, and Canvas, vanilla JS, and HTML for the randomized layout',
-    url: 'https://hardcore-darwin-6563fe.netlify.app/',
-    repo: 'https://github.com/onTheDL/a-zing', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'maze.png',
+  //   title: 'Mazing Around',
+  //   info: 'A simple maze game.',
+  //   info2:
+  //     'Built with MatterJS for the 2D physics, and Canvas, vanilla JS, and HTML for the randomized layout',
+  //   url: 'https://hardcore-darwin-6563fe.netlify.app/',
+  //   repo: 'https://github.com/onTheDL/a-zing', // if no repo, the button will not show up
+  // },
 ];
 
 // CONTACT DATA
