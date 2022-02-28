@@ -43,7 +43,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'apple-rebuild_hero.png',
     title: 'Apple Rebuild',
-    info: "This a rebuild of Apple's landing page.",
+    info: "A rebuild of Apple's landing page.",
     info2:
       'Stack: Webflow, custom CSS, fluid responsive design, client-first naming convention (css).',
     url: 'https://apple-rebuild-2b1b0-7ffb26a0ba7c0.webflow.io/',
@@ -73,7 +73,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'teamapp-hero-min.png',
     title: 'Team App',
-    info: `A communication software for remote teams (concept).  This project explores the use of Webflows 'collections' content management system.`,
+    info: `A communication software for remote teams (concept).`,
     info2: 'Stack: Webflow',
     url: 'https://team-app-d85c24.webflow.io/',
     repo: '', // if no repo, the button will not show up
