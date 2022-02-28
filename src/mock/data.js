@@ -30,16 +30,6 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'tempo-hero-min.png',
-    title: 'Tempo Locations',
-    info:
-      "I was recently tasked with rebuilding and making UI improvements on Tempo Fitness' location page. The original site can be found here:  https://tempo.fit/locations",
-    info2: 'Stack: Webflow, fluid responsive design, client-first naming convention (css).',
-    url: 'https://tempo-rebuild-2b1b0-ed9da08644bca.webflow.io/',
-    repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'w-site_hero-min.png',
     title: 'Leadership Conference',
     info:
@@ -61,6 +51,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'tempo-hero-min.png',
+    title: 'Tempo Locations',
+    info:
+      "I was recently tasked with rebuilding and making UI improvements on Tempo Fitness' location page. The original site can be found here:  https://tempo.fit/locations",
+    info2: 'Stack: Webflow, fluid responsive design, client-first naming convention (css).',
+    url: 'https://tempo-rebuild-2b1b0-ed9da08644bca.webflow.io/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'jzPhysio-hero.png',
     title: 'JZ Physiotherapy',
     info:
@@ -73,7 +73,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'teamapp-hero-min.png',
     title: 'Team App',
-    info: `A communication software for agile teams (concept).  This project explores the use of Webflows 'collections' content management system.`,
+    info: `A communication software for remote teams (concept).  This project explores the use of Webflows 'collections' content management system.`,
     info2: 'Stack: Webflow',
     url: 'https://team-app-d85c24.webflow.io/',
     repo: '', // if no repo, the button will not show up
