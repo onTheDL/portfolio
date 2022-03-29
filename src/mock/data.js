@@ -49,16 +49,16 @@ export const projectsData = [
     url: 'https://apple-rebuild-2b1b0-7ffb26a0ba7c0.webflow.io/',
     repo: '', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'tempo-hero-min.png',
-    title: 'Tempo Locations',
-    info:
-      "I was recently tasked with rebuilding and making UI improvements on Tempo Fitness' location page. The original site can be found here:  https://tempo.fit/locations",
-    info2: 'Stack: Webflow, fluid responsive design, client-first naming convention (css).',
-    url: 'https://tempo-rebuild-2b1b0-ed9da08644bca.webflow.io/',
-    repo: '', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'tempo-hero-min.png',
+  //   title: 'Tempo Locations',
+  //   info:
+  //     "I was recently tasked with rebuilding and making UI improvements on Tempo Fitness' location page. The original site can be found here:  https://tempo.fit/locations",
+  //   info2: 'Stack: Webflow, fluid responsive design, client-first naming convention (css).',
+  //   url: 'https://tempo-rebuild-2b1b0-ed9da08644bca.webflow.io/',
+  //   repo: '', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'jzPhysio-hero.png',
@@ -87,16 +87,16 @@ export const projectsData = [
   //   url: 'https://practice-fdbe17.webflow.io/',
   //   repo: '', // if no repo, the button will not show up
   // },
-  // {
-  //   id: nanoid(),
-  //   img: 'das-hero.png',
-  //   title: 'DAS Development',
-  //   info:
-  //     'A freelance website that showcases the use of React, Next.js and Material UI.  Features a responsive design, active menu selection, SEO integration, form and form validation, Google Cloud functions, Nodemailer, progress indicator (i.e. loading spinner), Snackbar components (provides brief feedback messages of action performed - e.g. "Message sent"), and cross-browser support.',
-  //   info2: 'Stack:  Javascript, ReactJS, Material UI, HTML, CSS, NextJS, Firebase',
-  //   url: 'https://das-next-js.vercel.app/',
-  //   repo: 'https://github.com/onTheDL/das-nextJS', // if no repo, the button will not show up
-  // },
+  {
+    id: nanoid(),
+    img: 'das-hero.png',
+    title: 'DAS Development',
+    info:
+      'A freelance website built with React, Next.js and Material UI.  Includes SEO integration, form and form validation, Google Cloud functions, Nodemailer, progress indicator (i.e. loading spinner), Snackbar components (provides brief feedback messages of action performed - e.g. "Message sent"), responsive design, and cross-browser support.',
+    info2: 'Stack:  Javascript, ReactJS, Material UI, HTML, CSS, NextJS, Firebase',
+    url: 'https://das-next-js.vercel.app/',
+    repo: 'https://github.com/onTheDL/das-nextJS', // if no repo, the button will not show up
+  },
   // {
   //   id: nanoid(),
   //   img: 'das-pm.png',
