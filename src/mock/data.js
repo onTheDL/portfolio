@@ -30,6 +30,17 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'cw-hub.min.jpg',
+    title: 'Cocoa Wellness Hub',
+    info:
+      'Cocoa Wellness Hub is an informational and ecommerce website that I have designed and developed for a health and wellness coach in Toronto.',
+    info2:
+      'Stack: Webflow, custom CSS, fluid responsive design, client-first naming convention (css).',
+    url: 'https://www.cocoawellnesshub.com/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'w-site_hero-min.png',
     title: 'Leadership Conference',
     info:
