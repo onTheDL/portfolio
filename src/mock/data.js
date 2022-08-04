@@ -30,7 +30,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'cw-hub.min.jpg',
+    img: 'cw-hub-min.jpg',
     title: 'Cocoa Wellness Hub',
     info:
       'Cocoa Wellness Hub is an informational and ecommerce website that I have designed and developed for a health and wellness coach in Toronto.',
