@@ -30,12 +30,22 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'cometchat-min.jpg',
+    title: 'CometChat',
+    info:
+      'Duties for this project included develop Figma design prototypes into pixel-perfect, fully responsive web pages with Webflow, employing on-page SEO best practices, and integrating custom code to add styling and functionality not inherent in Webflow (e.g. CSS animations with jQuery, Hubspot form integrations, Finsweet’s CMS Attribute Filtering System, CMS Nest, CMS Combine, and CMS Slider).  A number of A/B testing were also conducted using Google Optimize.',
+    info2:
+      'Stack: Webflow, custom CSS, fluid responsive design, Finsweet client-first style system (css)',
+    url: 'https://www.cometchat.com/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'cw-hub-min.jpg',
     title: 'Cocoa Wellness Hub',
     info:
-      'Cocoa Wellness Hub is an informational and ecommerce website that I have designed and developed for a health and wellness coach in Toronto.',
-    info2:
-      'Stack: Webflow, custom CSS, fluid responsive design, client-first naming convention (css).',
+      'Cocoa Wellness Hub is an informational and ecommerce website designed and developed for a health and wellness coach in Toronto.',
+    info2: 'Stack: Webflow, custom CSS, fluid responsive design, client-first style system (css).',
     url: 'https://www.cocoawellnesshub.com/',
     repo: '', // if no repo, the button will not show up
   },
@@ -50,6 +60,8 @@ export const projectsData = [
     url: 'https://w-site-0d90fd-5c38c1a43be9dd77a250b5d1b.webflow.io/',
     repo: '', // if no repo, the button will not show up
   },
+
+  /*
   {
     id: nanoid(),
     img: 'apple-rebuild_hero.png',
@@ -60,6 +72,7 @@ export const projectsData = [
     url: 'https://apple-rebuild-2b1b0-7ffb26a0ba7c0.webflow.io/',
     repo: '', // if no repo, the button will not show up
   },
+  */
   // {
   //   id: nanoid(),
   //   img: 'tempo-hero-min.png',
@@ -74,8 +87,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'jzPhysio-hero.png',
     title: 'JZ Physiotherapy',
-    info:
-      'A freelance project for Jimmy Zhou Physiotherapy. Additional content from the client is pending.',
+    info: 'A freelance project for Jimmy Zhou Physiotherapy. Additional client content is pending.',
     info2: 'Stack: Webflow',
     url: 'https://jz-physiotherapy.webflow.io/',
     repo: '', // if no repo, the button will not show up
@@ -98,6 +110,8 @@ export const projectsData = [
   //   url: 'https://practice-fdbe17.webflow.io/',
   //   repo: '', // if no repo, the button will not show up
   // },
+
+  /*
   {
     id: nanoid(),
     img: 'das-hero.png',
@@ -108,6 +122,7 @@ export const projectsData = [
     url: 'https://das-next-js.vercel.app/',
     repo: 'https://github.com/onTheDL/das-nextJS', // if no repo, the button will not show up
   },
+  */
   // {
   //   id: nanoid(),
   //   img: 'das-pm.png',
