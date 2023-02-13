@@ -73,16 +73,6 @@ export const projectsData = [
     repo: '', // if no repo, the button will not show up
   },
   */
-  // {
-  //   id: nanoid(),
-  //   img: 'tempo-hero-min.png',
-  //   title: 'Tempo Locations',
-  //   info:
-  //     "I was recently tasked with rebuilding and making UI improvements on Tempo Fitness' location page. The original site can be found here:  https://tempo.fit/locations",
-  //   info2: 'Stack: Webflow, fluid responsive design, client-first naming convention (css).',
-  //   url: 'https://tempo-rebuild-2b1b0-ed9da08644bca.webflow.io/',
-  //   repo: '', // if no repo, the button will not show up
-  // },
   {
     id: nanoid(),
     img: 'jzPhysio-hero.png',
