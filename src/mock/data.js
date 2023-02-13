@@ -33,7 +33,7 @@ export const projectsData = [
     img: 'cometchat-min.jpg',
     title: 'CometChat',
     info:
-      'Duties for this project included develop Figma design prototypes into pixel-perfect, fully responsive web pages with Webflow, employing on-page SEO best practices, and integrating custom code to add styling and functionality not inherent in Webflow (e.g. CSS animations with jQuery, Hubspot form integrations, Finsweet’s CMS Attribute Filtering System, CMS Nest, CMS Combine, and CMS Slider).  A number of A/B testing were also conducted using Google Optimize.',
+      'Duties for this project included develop Figma design prototypes into pixel-perfect, fully responsive web pages with Webflow, employ on-page SEO best practices, and integrate custom code to add styling and functionality not inherent in Webflow (e.g. CSS animations with jQuery, Hubspot form integrations, Finsweet’s CMS Attribute Filtering System, CMS Nest, CMS Combine, and CMS Slider).  A number of A/B testing were also conducted with Google Optimize.',
     info2:
       'Stack: Webflow, custom CSS, fluid responsive design, Finsweet client-first style system (css)',
     url: 'https://www.cometchat.com/',
