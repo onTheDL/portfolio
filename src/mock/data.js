@@ -20,9 +20,9 @@ export const aboutData = {
   img: 'about.jpg',
   paragraphOne: "I'm a frontend web and Webflow developer, and I love what I do!",
   paragraphTwo:
-    "I enjoy the process of learning and finding ways to transform ideas into reality. Having completed Codecademy's Web Developer Career Path, Udacity’s React Nanodegree Program and Webflow's Design and Development Courses, I’ve trained myself to build responsive, scalable, and performant software solutions. I hope to use those same skills to grow your company by turning your innovative, digital ideas into reality.",
+    'I enjoy the process of learning and finding ways to transform digital concepts into responsive, performant applications.',
   paragraphThree:
-    'Current Stack:  Javascript, HTML, CSS, Webflow, ReactJS, NextJS, GatsbyJS, NodeJS, Firebase, Material UI, styled-components, Git, and VSCode',
+    'Current Stack:  Webflow, Javascript, jQuery, HTML, CSS, ReactJS, NextJS, GatsbyJS, NodeJS, Firebase, Material UI, styled-components, Git, and VSCode',
   resume: 'https://my.indeed.com/p/qk2jiyt',
 };
 
